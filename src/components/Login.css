@@ -27,3 +27,10 @@
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
 }
+input:focus{
+  outline: none;
+}
+input{
+  padding: 5px;
+  color: darkblue;
+}
